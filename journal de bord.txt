@@ -14,5 +14,6 @@ Vendredi	21/09/2018:
 	-Recherche d'un sujet de projet
 
 Lundi		24/09/2018:
-	-Crï¿½ation du document d'expression du besoin
+	-Création d'un git
+	-Création du document d'expression du besoin
 
