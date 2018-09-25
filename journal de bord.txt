@@ -1,4 +1,4 @@
-Mardi 		11/09/2018:
+ï»¿Mardi 		11/09/2018:
 	-Recherche d'un sujet de projet
 
 Mercredi 	12/09/2018:
@@ -17,3 +17,6 @@ Lundi		24/09/2018:
 	-Création d'un git
 	-Création du document d'expression du besoin
 
+Mardi 		25/09/2018
+	-Conclusion du document d'expression du besoin
+	-Approfondissement des connaissances d'UML
