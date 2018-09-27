@@ -14,9 +14,12 @@ Vendredi	21/09/2018:
 	-Recherche d'un sujet de projet
 
 Lundi		24/09/2018:
-	-Création d'un git
-	-Création du document d'expression du besoin
+	-Creation d'un git
+	-Creation du document d'expression du besoin
 
 Mardi 		25/09/2018
 	-Conclusion du document d'expression du besoin
 	-Approfondissement des connaissances d'UML
+
+Jeudi		27/09/2018
+	-Creation d'un diagramme de cas d'utilisation
