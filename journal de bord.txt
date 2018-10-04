@@ -23,3 +23,12 @@ Mardi 		25/09/2018
 
 Jeudi		27/09/2018
 	-Creation d'un diagramme de cas d'utilisation
+
+Lundi		01/10/2018
+	-Recherches sur le fonctionnement d'un plugin WordPress
+
+Mardi 		02/10/2018
+	-Recherches sur le fonctionnement d'un plugin WordPress
+
+Jeudi		04/10/2018
+	-Réflexion sur le cahier des charges
